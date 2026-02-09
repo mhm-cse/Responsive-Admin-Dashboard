@@ -20,10 +20,15 @@ This project is suitable for frontend practice and admin panel UI design.
 
 Responsive-Admin-Dashboard/
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 └── README.md
 
 ## How to Run
@@ -39,6 +44,5 @@ This project is created for learning and practicing frontend web development con
 ## Author
 
 ***MHM bdTech***
-
 Frontend Developer
 
